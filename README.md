@@ -1,2 +1,3 @@
-##OSN
-#OSN course of IIITH - '22
+# OSN
+
+## OSN course of IIITH - '22
