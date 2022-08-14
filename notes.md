@@ -1,7 +1,8 @@
-#Notes
+# Notes
 
-##syscalls to learn
+## syscalls to learn
 
 '''
-open(), read(), write(), close(), lseek(), stat(), fflush(), perror()
+open() 
+read() write(), close(), lseek(), stat(), fflush(), perror()
 '''
