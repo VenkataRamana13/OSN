@@ -3,6 +3,6 @@
 ## syscalls to learn
 
 ```
-open() 
+open(), chmod(), chown()
 read() write(), close(), lseek(), stat(), fflush(), perror()
 ```
